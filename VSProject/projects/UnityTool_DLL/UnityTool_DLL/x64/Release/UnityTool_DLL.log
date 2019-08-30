@@ -1,0 +1,7 @@
+﻿     Creating library ../../../libraries/UnityTool_OutputDLL/UnityTool_DLL.lib and object ../../../libraries/UnityTool_OutputDLL/UnityTool_DLL.exp
+  Generating code
+  4 of 22 functions (18.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnityTool_DLL.vcxproj -> C:\Users\Mials\Desktop\Middleware - Unity3D_Tool\VSProject\projects\UnityTool_DLL\UnityTool_DLL\../../../libraries/UnityTool_OutputDLL/UnityTool_DLL.dll
